@@ -1,1 +1,2 @@
-The resource of [Python's Requests Lib (Guide)](realpython.com/python-requests/)
+The resource of [Python's Requests Lib (Guide)](www.realpython.com/python-requests/)
+
