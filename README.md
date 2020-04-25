@@ -1,2 +1,6 @@
 # LearningPython
 This repo is about the src I wrote in Python.
+
+Tools
+- visual studio code
+- git
