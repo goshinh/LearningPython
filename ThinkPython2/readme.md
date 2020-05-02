@@ -1,6 +1,9 @@
 "ThinkPython2" is a book I am reading. I'll put some exercises src in the folder.
 
 ## Chapter 6 Fruitful function
+- [ ] Taking notes
+- [ ] Exercises
 
-- area.py
-- is_between.py
+## Reference
+- [Think Python (official site)](https://greenteapress.com/wp/think-python/)
+- [Github](https://github.com/AllenDowney/ThinkPython)
